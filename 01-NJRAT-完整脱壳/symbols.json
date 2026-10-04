@@ -1,0 +1,57 @@
+native symbols: OK
+  input:        C:\malware_work\NJRAT\njrat_decrypted.exe
+  format:       pe
+  arch:         i386
+  exports:      0
+  imports:      113
+    CoCreateInstance <- ole32.DLL
+    CLSIDFromString <- ole32.DLL
+    CoInitialize <- ole32.DLL
+    CoUninitialize <- ole32.DLL
+    SysAllocString <- OLEAUT32.DLL
+    DeleteUrlCacheEntry <- WININET.DLL
+    FindFirstUrlCacheEntryA <- WININET.DLL
+    FindNextUrlCacheEntryA <- WININET.DLL
+    ExitProcess <- KERNEL32.DLL
+    ExpandEnvironmentStringsA <- KERNEL32.DLL
+    GetCommandLineA <- KERNEL32.DLL
+    GetComputerNameA <- KERNEL32.DLL
+    GetCurrentProcessId <- KERNEL32.DLL
+    GetCurrentThreadId <- KERNEL32.DLL
+    GetExitCodeThread <- KERNEL32.DLL
+    GetFileSize <- KERNEL32.DLL
+    GetModuleFileNameA <- KERNEL32.DLL
+    GetModuleHandleA <- KERNEL32.DLL
+    CloseHandle <- KERNEL32.DLL
+    GetProcAddress <- KERNEL32.DLL
+    GetSystemDirectoryA <- KERNEL32.DLL
+    GetTempPathA <- KERNEL32.DLL
+    GetTickCount <- KERNEL32.DLL
+    GetVersion <- KERNEL32.DLL
+    GetVersionExA <- KERNEL32.DLL
+    GetWindowsDirectoryA <- KERNEL32.DLL
+    GlobalMemoryStatus <- KERNEL32.DLL
+    CopyFileA <- KERNEL32.DLL
+    InterlockedIncrement <- KERNEL32.DLL
+    IsBadReadPtr <- KERNEL32.DLL
+    IsBadWritePtr <- KERNEL32.DLL
+    LoadLibraryA <- KERNEL32.DLL
+    LocalAlloc <- KERNEL32.DLL
+    LocalFree <- KERNEL32.DLL
+    OpenMutexA <- KERNEL32.DLL
+    CreateFileA <- KERNEL32.DLL
+    ReadFile <- KERNEL32.DLL
+    RtlUnwind <- KERNEL32.DLL
+    SetFilePointer <- KERNEL32.DLL
+    CreateMutexA <- KERNEL32.DLL
+    ... 73 more (see the symbols JSON)
+  sections:     6
+    .text                 0x0000401000       32620  text
+    .bss                  0x0000409000      136112  uninitializeddata
+    .data                 0x000042b000       13264  data
+    .idata                0x000042f000        3748  text
+    .fldo                 0x0000430000        4096  text
+    .l1                   0x0000431000        4608  text
+  segments:     6
+  debug_info:   false
+  wrote:        ./out/njrat_decrypted.symbols.json

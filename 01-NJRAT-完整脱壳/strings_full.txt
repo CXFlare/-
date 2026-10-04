@@ -1,0 +1,1637 @@
+### ASCII ###
+.text
+.data
+.idata
+.fldo
+t ;t$$t
+SVWUj
+QPSVW
+>.G;}
+VhLT@
+VhN_@
+dPjQj
+jdj(h
+jxj(h
+jdjdh
+dPjQj
+jdjdj
+j(jFj
+jdj_j
+<9~ j
+<9~ j
+<9~ j
+?"u#j"
+KingKarton_10
+http://crutop.nu/index.php
+http://crutop.ru/index.php
+http://mazafaka.ru/index.php
+http://color-bank.ru/index.php
+http://asechka.ru/index.php
+http://trojan.ru/index.php
+http://fuck.ru/index.php
+http://goldensand.ru/index.php
+http://filesearch.ru/index.php
+http://devx.nm.ru/index.php
+http://ros-neftbank.ru/index.php
+http://lovingod.host.sk/index.php
+http://www.redline.ru/index.php
+http://cvv.ru/index.php
+http://hackers.lv/index.php
+http://fethard.biz/index.php
+http://ldark.nm.ru/index.htm
+http://gaz-prom.ru/index.htm
+http://promo.ru/index.htm
+http://potleaf.chat.ru/index.htm
+http://kadet.ru/index.htm
+http://cvv.ru/index.htm
+http://crutop.nu/index.htm
+http://crutop.ru/index.htm
+http://mazafaka.ru/index.htm
+http://xware.cjb.net/index.htm
+http://konfiskat.org/index.htm
+http://parex-bank.ru/index.htm
+http://kidos-bank.ru/index.htm
+http://kavkaz.ru/index.htm
+http://ldark.nm.ru/index.htm
+http://fethard.biz/index.htm
+Software\Microsoft
+Software\Microsoft
+CRYPTKEY
+ntdll.dll
+RtlInitUnicodeString
+NtUnmapViewOfSection
+NtOpenSection
+NtMapViewOfSection
+RtlNtStatusToDosError
+CURRENT_USER
+CRYPTEND
+CRYPTKEY
+Process32Next
+NtQuerySystemInformation
+kernel32.dll
+ntdll.dll
+ntdll.dll
+wsock32.dll
+kernel32.dll
+kernel32.dll
+user32.dll
+user32.dll
+kernel32.dll
+wcscmp
+htons
+VirtualProtect
+GetCurrentProcessId
+FindWindowA
+SendMessageA
+IsBadReadPtr
+kernel32.dll
+CRYPTEND
+!This program cannot be run in DOS mode.
+.text
+`.rdata
+@.data
+.idata
+.reloc
+.edata
+t ;t$$t
+SVWUj
+abcdefghijklmno
+%s\%s
+ExitProcess
+GetEnvironmentStringsA
+CloseHandle
+GetSystemDirectoryA
+OpenMutexA
+RtlUnwind
+WinExec
+_fdopen
+_open_osfhandle
+fclose
+_cexit
+malloc
+printf
+raise
+setbuf
+sprintf
+strcpy
+KERNEL32.DLL
+CRTDLL.DLL
+2$2*2?2
+4F5R5^5j5v5
+2 2$2(2,20242D2H2L2P2T2X2\2`2d2h2
+dll.dll
+This KEWL STUFF was coded by V. V. PUPKIN, moderator of crutop.nu
+Welcome to our forum, Adult Web Masters! http://crutop.nu
+AWM, welcome to CRUTOP.NU - HARDCORE/CONTENT/CHILD PORNO/LOLITAS/RAPE
+REAL CASH, REAL BITCHEZ - CRUTOP.NU
+Incorrect ATM PIN, please, correct
+Please, enter your ATM PIN
+Incorrect CVV2 (3-digit code on back of card), please, correct
+Please, enter your CVV2 (3-digit code on back of card)
+%s-%s
+Please, select Expiration Year
+Please, select Expiration Month
+Incorrect Card Number, please, correct
+Please, enter your Card Number
+%s %s
+Please, enter correct Full Name
+Please, select Card (Visa/MasterCard)
+RegisterServiceProcess
+kernel32.dll
+surf.dat
+dnkk.dll
+kk32.vxd
+kk32.dll
+%s\%s
+%s\%s.exe
+%s/Rtdx1%i.htm
+%s\Rtdx1%i.dat
+wupd 
+%s /C %s
+\command.com
+%s\command.pif
+%s\cmd.exe
+%s\cmd.pif
+:%02u
+ofs_kk
+vvpupkin
+crutop
+Please make corrections and try again.
+Unable to authorize. ATM PIN-Code is required to complete the transaction.
+   Authorization Failed.
+Click Once To Continue
+BUTTON
+ATM PIN-Code
+3-digit validation code on back of card (cvv2)
+Your card number
+Card && expiration date
+Full Name
+MasterCard
+COMBOBOX
+Please fill in the correct information to verify your identity.
+Before signing in, please confirm that you are the owner of this account.
+of fraud on our website, we are undertaking a period review of our member accounts.
+As part of our continuing commitment to protect your account and to reduce the instance
+   Security Measures
+STATIC
+KingKarton
+Explorer
+DocObject
+20%.2u
+<HTML><!--
+%ssetTimeout("x()",%u);
+%sself.parent.location="%s";
+function x()
+%s<!-- %u -->
+X-okRecv11
+IEFrame
+%s%u - Microsoft Internet Explorer
+\Iexplore.exe 
+Software\Microsoft\IE Setup\Setup
+BrowseNewProcess
+.DEFAULT\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\BrowseNewProcess
+GlobalUserOffline
+Software\Microsoft\Windows\CurrentVersion\Internet Settings
+SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\%u
+</body><html>
+</script>
+%ssetTimeout("z()",%u);
+%sdocument.%s.submit();
+function z()
+<script>
+</form>
+<input type="submit" value=''>
+&nbsp;
+%s<input type="edit" value='%s' name='%s%u'><br>
+%s<input type="edit" value='%s' name='%s'><br>
+%s<form action="%s" method="POST" name="%s">
+f%.3u
+<body>
+</head>
+MicroSoft-Corp
+%s<title>%s%u</title>
+<head>
+%s<!-- %.2u -->
+<html>
+%s%c%c
+blind_user
+Web Event Logger
+Software\Microsoft\Windows\CurrentVersion\ShellServiceObjectDelayLoad
+Apartment
+ThreadingModel
+CLSID\%s\InProcServer32
+%s\%s.dll
+{79FEACFF-FFCE-815E-A900-316290B5B738}
+TXT: '%s'
+%02X 
+HEX: 
+[length=%i] [summ=%i]
+%s %X%c
+%s FORM_%X
+Sign in
+.yahoo.com
+webmail.juno.com
+my.juno.com/s/
+.juno.com
+.earthlink.
+Sign In
+signin.ebay.
+Log In
+.paypal.com
+Microsoft Internet Explorer
+CoCreateInstance
+CLSIDFromString
+CoInitialize
+CoUninitialize
+SysAllocString
+DeleteUrlCacheEntry
+FindFirstUrlCacheEntryA
+FindNextUrlCacheEntryA
+ExitProcess
+ExpandEnvironmentStringsA
+GetCommandLineA
+GetComputerNameA
+GetCurrentProcessId
+GetCurrentThreadId
+GetExitCodeThread
+GetFileSize
+GetModuleFileNameA
+GetModuleHandleA
+CloseHandle
+GetProcAddress
+GetSystemDirectoryA
+GetTempPathA
+GetTickCount
+GetVersion
+GetVersionExA
+GetWindowsDirectoryA
+GlobalMemoryStatus
+CopyFileA
+InterlockedIncrement
+IsBadReadPtr
+IsBadWritePtr
+LoadLibraryA
+LocalAlloc
+LocalFree
+OpenMutexA
+CreateFileA
+ReadFile
+RtlUnwind
+SetFilePointer
+CreateMutexA
+Sleep
+TerminateProcess
+VirtualQuery
+CreateProcessA
+WaitForSingleObject
+WideCharToMultiByte
+WinExec
+WriteFile
+lstrlenA
+lstrlenW
+CreateThread
+DeleteFileA
+GetWindowTextA
+GetWindowRect
+FindWindowA
+GetWindow
+GetClassNameA
+SetFocus
+GetForegroundWindow
+LoadCursorA
+LoadIconA
+SetTimer
+RegisterClassA
+MessageBoxA
+GetMessageA
+GetWindowLongA
+SetWindowLongA
+CreateDesktopA
+SetThreadDesktop
+GetThreadDesktop
+TranslateMessage
+DispatchMessageA
+SendMessageA
+PostQuitMessage
+ShowWindow
+CreateWindowExA
+DestroyWindow
+MoveWindow
+DefWindowProcA
+CallWindowProcA
+GetStockObject
+SetBkColor
+SetTextColor
+CreateBrushIndirect
+CreateFontA
+GetUserNameA
+RegCreateKeyExA
+RegCloseKey
+RegOpenKeyExA
+RegQueryValueExA
+RegSetValueExA
+GetSecurityInfo
+SetSecurityInfo
+SetEntriesInAclA
+__GetMainArgs
+_sleep
+_stricmp
+memcpy
+memset
+printf
+raise
+signal
+sprintf
+srand
+sscanf
+strcat
+strchr
+strncmp
+vsprintf
+ole32.DLL
+OLEAUT32.DLL
+WININET.DLL
+KERNEL32.DLL
+USER32.DLL
+GDI32.DLL
+ADVAPI32.DLL
+CRTDLL.DLL
+CoCreateInstance
+CLSIDFromString
+CoInitialize
+CoUninitialize
+SysAllocString
+DeleteUrlCacheEntry
+FindFirstUrlCacheEntryA
+FindNextUrlCacheEntryA
+ExitProcess
+ExpandEnvironmentStringsA
+GetCommandLineA
+GetComputerNameA
+GetCurrentProcessId
+GetCurrentThreadId
+GetExitCodeThread
+GetFileSize
+GetModuleFileNameA
+GetModuleHandleA
+CloseHandle
+GetProcAddress
+GetSystemDirectoryA
+GetTempPathA
+GetTickCount
+GetVersion
+GetVersionExA
+GetWindowsDirectoryA
+GlobalMemoryStatus
+CopyFileA
+InterlockedIncrement
+IsBadReadPtr
+IsBadWritePtr
+LoadLibraryA
+LocalAlloc
+LocalFree
+OpenMutexA
+CreateFileA
+ReadFile
+RtlUnwind
+SetFilePointer
+CreateMutexA
+Sleep
+TerminateProcess
+VirtualQuery
+CreateProcessA
+WaitForSingleObject
+WideCharToMultiByte
+WinExec
+WriteFile
+lstrlenA
+lstrlenW
+CreateThread
+DeleteFileA
+GetWindowTextA
+GetWindowRect
+FindWindowA
+GetWindow
+GetClassNameA
+SetFocus
+GetForegroundWindow
+LoadCursorA
+LoadIconA
+SetTimer
+RegisterClassA
+MessageBoxA
+GetMessageA
+GetWindowLongA
+SetWindowLongA
+CreateDesktopA
+SetThreadDesktop
+GetThreadDesktop
+TranslateMessage
+DispatchMessageA
+SendMessageA
+PostQuitMessage
+ShowWindow
+CreateWindowExA
+DestroyWindow
+MoveWindow
+DefWindowProcA
+CallWindowProcA
+GetStockObject
+SetBkColor
+SetTextColor
+CreateBrushIndirect
+CreateFontA
+GetUserNameA
+RegCreateKeyExA
+RegCloseKey
+RegOpenKeyExA
+RegQueryValueExA
+RegSetValueExA
+GetSecurityInfo
+SetSecurityInfo
+SetEntriesInAclA
+__GetMainArgs
+_sleep
+_stricmp
+memcpy
+memset
+printf
+raise
+signal
+sprintf
+srand
+sscanf
+strcat
+strchr
+strncmp
+vsprintf
+LdrUnloadDll
+ole32.DLL
+OLEAUT32.DLL
+WININET.DLL
+KERNEL32.DLL
+USER32.DLL
+GDI32.DLL
+ADVAPI32.DLL
+CRTDLL.DLL
+NTDLL.DLL
+.text
+`.rsrc
+@.reloc
+j3wrW
+v2.0.50727
+#Strings
+#GUID
+#Blob
+<Module>
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+.ctor
+RuntimeCompatibilityAttribute
+System
+Object
+Microsoft.VisualBasic.CompilerServices
+StandardModuleAttribute
+System.IO
+FileInfo
+FileStream
+Microsoft.VisualBasic.Devices
+Computer
+System.Net.Sockets
+TcpClient
+MemoryStream
+Conversions
+ToBoolean
+System.Reflection
+Assembly
+GetEntryAssembly
+get_Location
+Exception
+Microsoft.VisualBasic.MyServices
+RegistryProxy
+ServerComputer
+get_Registry
+Microsoft.Win32
+RegistryKey
+get_CurrentUser
+String
+Concat
+OpenSubKey
+DeleteValue
+ProjectData
+SetProjectError
+ClearProjectError
+RuntimeHelpers
+GetObjectValue
+GetValue
+RegistryValueKind
+CreateSubKey
+SetValue
+DateTime
+Operators
+ConditionalCompareObjectEqual
+ToString
+Environment
+get_MachineName
+get_UserName
+FileSystemInfo
+get_LastWriteTime
+get_Date
+ComputerInfo
+get_Info
+get_OSFullName
+Replace
+OperatingSystem
+get_OSVersion
+get_ServicePack
+Microsoft.VisualBasic
+Strings
+CompareMethod
+Split
+SpecialFolder
+GetFolderPath
+Contains
+RegistryKeyPermissionCheck
+GetValueNames
+get_Length
+Convert
+ToBase64String
+FromBase64String
+System.Text
+Encoding
+get_UTF8
+GetBytes
+GetString
+System.IO.Compression
+GZipStream
+Stream
+CompressionMode
+set_Position
+BitConverter
+ToInt32
+Dispose
+Space
+IntPtr
+op_Equality
+op_Explicit
+Interaction
+Environ
+Conversion
+Module
+GetModules
+GetTypes
+get_FullName
+EndsWith
+get_Assembly
+CreateInstance
+DirectoryInfo
+get_Name
+ToLower
+CompareString
+get_Directory
+get_Parent
+get_LocalMachine
+AppWinStyle
+Shell
+Delete
+DeleteSubKey
+EndApp
+System.Threading
+Thread
+Sleep
+Exists
+FileMode
+ReadAllBytes
+Write
+Flush
+Close
+System.Diagnostics
+Process
+Start
+EnvironmentVariableTarget
+SetEnvironmentVariable
+System.Net
+WebClient
+System.Drawing
+Graphics
+Bitmap
+Rectangle
+ConcatenateObject
+get_Chars
+ToArray
+DownloadData
+GetTempFileName
+WriteAllBytes
+get_Message
+NewLateBinding
+LateSet
+LateCall
+Boolean
+LateGet
+CompareObjectEqual
+OrObject
+System.Windows.Forms
+Screen
+get_PrimaryScreen
+get_Bounds
+get_Width
+get_Height
+System.Drawing.Imaging
+PixelFormat
+Image
+FromImage
+CopyPixelOperation
+CopyFromScreen
+Cursor
+Cursors
+get_Default
+Point
+get_Position
+ToInteger
+DrawImage
+ImageFormat
+get_Jpeg
+WriteByte
+RuntimeTypeHandle
+GetTypeFromHandle
+ChangeType
+System.Security.Cryptography
+MD5CryptoServiceProvider
+HashAlgorithm
+ComputeHash
+GetCurrentProcess
+get_Handle
+Monitor
+Enter
+Int32
+Socket
+get_Client
+SocketFlags
+set_ReceiveBufferSize
+set_SendBufferSize
+set_SendTimeout
+set_ReceiveTimeout
+Connect
+get_Available
+SelectMode
+NetworkStream
+GetStream
+ReadByte
+ToLong
+Receive
+ParameterizedThreadStart
+Command
+Mutex
+ThreadStart
+SessionEndingEventArgs
+SessionEndingEventHandler
+SystemEvents
+add_SessionEnding
+Application
+DoEvents
+set_MinWorkingSet
+ConditionalCompareObjectNotEqual
+CompilerGeneratedAttribute
+DebuggerStepThroughAttribute
+STAThreadAttribute
+StringBuilder
+GetProcessById
+get_MainWindowTitle
+DateAndTime
+get_Now
+get_ProcessName
+Keyboard
+get_Keyboard
+get_ShiftKeyDown
+get_CapsLock
+ToUpper
+get_CtrlKeyDown
+Remove
+j.exe
+avicap32.dll
+kernel32
+user32.dll
+user32
+ntdll
+mscorlib
+lastcap
+.cctor
+NtSetInformationProcess
+hProcess
+processInformationClass
+processInformation
+processInformationLength
+capGetDriverDescriptionA
+wDriver
+lpszName
+cbName
+lpszVer
+cbVer
+GetVolumeInformation
+GetVolumeInformationA
+lpRootPathName
+lpVolumeNameBuffer
+nVolumeNameSize
+lpVolumeSerialNumber
+lpMaximumComponentLength
+lpFileSystemFlags
+lpFileSystemNameBuffer
+nFileSystemNameSize
+GetForegroundWindow
+GetWindowText
+GetWindowTextA
+WinTitle
+MaxLength
+GetWindowTextLength
+GetWindowTextLengthA
+Plugin
+CompDir
+Sendb
+connect
+_Lambda$__1
+_Lambda$__2
+LastAV
+LastAS
+lastKey
+ToUnicodeEx
+GetKeyboardState
+MapVirtualKey
+GetWindowThreadProcessId
+GetKeyboardLayout
+GetAsyncKeyState
+VKCodeToUnicode
+WrapNonExceptionThrows
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+PPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDING
+d5:14:60:61:a7:3b:6e:4e:
+2:29:ce:69:5
+:7e:H|
+:fa:22:33:b1:6d:5d:1d:d9:a3:f1:b6:e1:ba:ed:0f:b3
+19:d2:1c:d3:
+:71:35:0
+48:97:84:72:c2:9
+[6657, 322730, 265564, 265564, 265564, 265564, 265028, 265028, 265028, 265028, 261978, 259718, 257633, 257633, 257633, 257633, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555]
+534518033266, 0.005343534518033266, [
+1:7a:eb:91:d6:9c:f7:73:75:05:80:43:4c:06:98:12:cd:11:90:27:b0:9b:00:da:ef:aa:b5:9c:90:e5:03:81:f0:99:cb:04:47:a3:85:44:13:7f:59:93:79:93:8d:40:3d:68:d0:a8:13:ea:6e:1b:82:1c:c7:55:42:e0:b7:04:d8:b6:a0:7b:40:b3:26:cd:72
+9d:6a:ab:f8:69:2f:c9:98:cb:67:59:48:ba:c5:53:90:64:1a:10:9e:01:27:76:4c:44:9d:4c:cc:71:b1:33:89:78:73:9e:d7:e2:fa:9f:e0:44:60:61:74:84:8c:0e:ab:23:e0:6c:71:87:9c:2b:92:28:af:f6:0e:2d:fc:19:dc:99:5e:6e:45:04:3f:71:de:8f:3b:af:42:8f:9b:41
+:63:7b:7
+59:25:bb:3a:60:3
+dsx`-
+c:91:06:01
+d:08:b3:b7:7b:10:df:86:34:2e:d5:df:57:34:50:3c:5b:f5:e8:d5:14:60:61:a7:3b:6e:4e:96:52:29:ce:69:5e:b1:98:33:97:cf:c1:6a:db
+[6657, 322730, 265564, 265564, 265564, 265564, 265028, 265028, 265028, 265028, 261978, 259718, 257633, 257633, 257633, 257633, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555, 242555]
+534518033266, 0.005343534518033266, [
+1:7a:eb:91:d6:9c:f7:73:75:05:80:43:4c:06:98:12:cd:11:90:27:b0:9b:00:da:ef:aa:b5:9c:90:e5:03:81:f0:99:cb:04:47:a3:85:44:13:7f:59:93:79:93:8d:40:3d:68:d0:a8:13:ea:6e:1b:82:1c:c7:55:42:e0:b7:04:d8:b6:a0:7b:40:b3:26:cd:72
+9d:6a:ab:f8:69:2f:c9:98:cb:67:59:48:ba:c5:53:90:64:1a:10:9e:01:27:76:4c:44:9d:4c:cc:71:b1:33:89:78:73:9e:d7:e2:fa:9f:e0:44:60:61:74:84:8c:0e:ab:23:e0:6c:71:87:9c:2b:92:28:af:f6:0e:2d:fc:19:dc:99:5e:6e:45:04:3f:71:de:8f:3b:af:42:8f:9b:41
+b1:45
+j3wrW
+$#O_O
+@mscn
+@mscQ
+@ep\M
+@q D|
+@(), 
+@oLOH
+@Ml>N
+f5_x]
+7.0.7.2.
+dilation
+ef[1]
+IDATx
+AFp7`
+I,zU]{\
+.Xk;Qi
+MJFkMCDO
+MJFkMCDO
+MJFkMCDO
+zRoqzz
+:oq:RO
+-q{:oq
+3zRnqz
+tz:0/!
+opz:`
+qz:TD
+~:oJO
+8~:oJO
+Yuz:TDZ
+-qzOd
+;:TDf
+az:oq
+z:oq/
+p-Po!
+qj:o\z*oq
+>KLz*oq
+yz:oq
+498033e-01, 1.82995335e-01, 5.42357888e-02, 8.57929532e-01,
+tCodeThread
+GetFileSize
+GetModuleFileNameA
+GetModuleHandleA
+CloseHandle
+GetProcAddress
+GetSystemDirectoryA
+GetTempPathA
+GetTickCount
+GetVersion
+GetVersionExA
+GetWindowsDirectoryA
+GlobalMemoryStatus
+CopyFileA
+Interlocked
+4h0LW
+.4.1438
+@:W1A
+@:W1A
+@:W1A
+@wI9D
+@wI9D
+@,BND
+Hx'f/
+@Zcm8
+CGeneticAlgorithm{'classifier': CClassifierEnd2EndMalware{'classes': array([0, 1]), 'n_features': 1048576, 'preprocess': None, 'n_jobs': 1, 'model': MalConv(
+  (embedding_1): Embedding(257, 8)
+  (conv1d_1): Conv1d(8, 128, kernel_size=(500,), stride=(500,))
+  (conv1d_2): Conv1d(8, 128, kernel_size=(500,), stride=(500,))
+  (dense_1): Linear(in_features=128, out_features=128, bias=True)
+  (dense_2): Linear(in_features=128, out_features=1, bias=True)
+), 'trained': False, 'input_shape': (1, 1048576), 'softmax_outputs': False, 'batch_size': 256, 'loss': 'binary_crossentropy', 'optimizer': None, 'optimizer_scheduler': None, 'epochs': 100, 'plus_version': False, 'train_transform': Lambda()}, 'x_opt': None, 'f_opt': None, 'x_seq': None, 'f_seq': None, 'attack_classes': 'all', 'y_target': CClassifierEnd2EndMalware{'classes': array([0, 1]), 'n_features': 1048576, 'preprocess': None, 'n_jobs': 1, 'model': MalConv(
+  (embedding_1): Embedding(257, 8)
+  (conv1d_1): Conv1d(8, 128, kernel_size=(500,), stride=(500,))
+  (conv1d_2): Conv1d(8, 128, kernel_size=(500,), stride=(500,))
+  (dense_1): Linear(in_features=128, out_features=128, bias=True)
+  (dense_2): Linear(in_features=128, out_features=1, bias=True)
+), 'trained': False, 'input_shape': (1, 1048576), 'softmax_outputs': False, 'batch_size': 256, 'loss': 'binary_crossentropy', 'optimizer': None, 'optimizer_scheduler': None, 'epochs': 100, 'plus_version': False, 'train_transform': Lambda()}, 'problem': <secml_malware.attack.blackbox.c_gamma_evasion.CGammaEvasionProblem object at 0x7f5c08e9a040>, 'confidences_': [0.9999998807907104, 1.0, 0.999997615814209, 0.9999998807907104, 1.0, 1.0, 1.0, 0.9999998807907104, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209, 0.9999997615814209], 'fitness_': [0.9999998807907104, 4.42316, 4.15021761581421, 3.6492198807907106, 3.5502700000000003, 3.5502700000000003, 3.5502700000000003, 3.5502698807907107, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421, 3.550269761581421], 'sizes_': [383283, 725599, 698305, 648205, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310, 638310], 'changes_per_iterations_': [], 'model_wrapper': <secml_malware.attack.blackbox.c_wrapper_phi.CEnd2EndWrapperPhi object at 0x7f5c08ec3d00>, 'is_debug': False, 'minimization_result_': array([0.39087743, 0.0466523 , 0.2206452 , 0.07488703, 0.04367997,
+       0.59451982, 0.4388434 , 0.84919113, 0.99P
+.text
+.data
+.idata
+.fldo
+;>iqz:
+_:oqz
+QANKU
+jqz:o
+i9&/Po
+z:2.$a
+ri9&/
+1~<oqz5
+xo'-k
+3zc0/
+8:dqz:
+\cAddress
+GetSystemDirectoryA
+GetTempPathA
+GetTickCount
+GetVersion
+GetVersionExA
+GetWindowsDirectoryA
+GlobalMemoryStatus
+CopyFileA
+InterlockedIncrement
+IsBadReadPtr
+IsBadWritePtr
+LoadLibraryA
+LocalAlloc
+LocalFree
+OpenMutexA
+CreateFileA
+ReadFile
+RtlUnwind
+SetFilePointer
+CreateMutexA
+Sleep
+TerminateProcess
+VirtualQuery
+CreateProcessA
+WaitForSingleObject
+WideCharToMultiByte
+WinExec
+WriteFile
+lstrlenA
+lstrlenW
+CreateThread
+DeleteFileA
+GetWindowTextA
+GetWindowRect
+FindWindowA
+GetWindow
+GetClassNameA
+SetFocus
+GetForegroundWindow
+LoadCursorA
+LoadIconA
+SetTimer
+RegisterClassA
+MessageBoxA
+GetMessageA
+GetWindowLongA
+SetWindowLongA
+CreateDesktopA
+SetThreadDesktop
+GetThreadDesktop
+TranslateMessage
+DispatchMessageA
+SendMessageA
+PostQuitMessage
+ShowWindow
+CreateWindowExA
+DestroyWindow
+MoveWindow
+DefWindowProcA
+CallWindowProcA
+GetStockObject
+SetBkColor
+SetTextColor
+CreateBrushIndirect
+CreateFontA
+GetUserNameA
+RegCreateKeyExA
+RegCloseKey
+RegOpenKeyExA
+RegQueryValueExA
+RegSetValueExA
+GetSecurityInfo
+SetSecurityInfo
+SetEntriesInAclA
+__GetMainArgs
+_sleep
+_stricmp
+memcpy
+memset
+printf
+raise
+signal
+sprintf
+srand
+sscanf
+strcat
+strchr
+strncmp
+vsprintf
+ole32.DLL
+OLEAUT32.DLL
+WININET.DLL
+KERNEL32.DLL
+USER32.DLL
+GDI32.DLL
+ADVAPI32.DLL
+CRTDLL.DLL
+CoCreateInstance
+CLSIDFromString
+CoInitialize
+CoUninitialize
+SysAllocString
+DeleteUrlCacheEntry
+FindFirstUrlCacheEntryA
+FindNextUrlCacheEntryA
+ExitProcess
+ExpandEnvironmentStringsA
+GetCommandLineA
+GetComputerNameA
+GetCurrentProcessId
+GetCurrentThreadId
+GetExitCodeThread
+GetFileSize
+GetModuleFileNameA
+GetModuleHandleA
+CloseHandle
+GetProcAddress
+GetSystemDirectoryA
+GetTempPathA
+GetTickCount
+GetVersion
+GetVersionExA
+GetWindowsDirectoryA
+GlobalMemoryStatus
+CopyFileA
+InterlockedIncrement
+IsBadReadPtr
+IsBadWritePtr
+LoadLibraryA
+LocalAlloc
+LocalFree
+OpenMutexA
+CreateFileA
+ReadFile
+RtlUnwind
+SetFilePointer
+CreateMutexA
+Sleep
+TerminateProcess
+VirtualQuery
+CreateProcessA
+WaitForSingleObject
+WideCharToMultiByte
+WinExec
+WriteFile
+lstrlenA
+lstrlenW
+CreateThread
+DeleteFileA
+GetWindowTextA
+GetWindowRect
+FindWindowA
+GetWindow
+GetClassNameA
+SetFocus
+GetForegroundWindow
+LoadCursorA
+LoadIconA
+SetTimer
+RegisterClassA
+MessageBoxA
+GetMessageA
+GetWindowLongA
+SetWindowLongA
+CreateDesktopA
+SetThreadDesktop
+GetThreadDesktop
+TranslateMessage
+DispatchMessageA
+SendMessageA
+PostQuitMessage
+ShowWindow
+CreateWindowExA
+DestroyWindow
+MoveWindow
+DefWindowProcA
+CallWindowProcA
+GetStockObject
+SetBkColor
+SetTextColor
+CreateBrushIndirect
+CreateFontA
+GetUserNameA
+RegCreateKeyExA
+RegCloseKey
+RegOpenKeyExA
+RegQueryValueExA
+RegSetValueExA
+GetSecurityInfo
+SetSecurityInfo
+SetEntriesInAclA
+__GetMainArgs
+_sleep
+_stricmp
+memcpy
+memset
+printf
+raise
+signal
+sprintf
+srand
+sscanf
+strcat
+strchr
+strncmp
+vsprintf
+LdrUnloadDll
+ole32.DLL
+OLEAUT32.DLL
+WININET.DLL
+KERNEL32.DLL
+USER32.DLL
+GDI32.DLL
+ADVAPI32.DLL
+CRTDLL.DLL
+NTDLL.DLL
+     
+  </trustInfo>
+</assembly>
+PPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDING
+@Ynie
+@$Ed8
+@i:;M
+.2.15
+@Ynie
+3, 0.140a
+glePro
+derIt
+torch.CharTensor
+padding
+@tc:H
+r_phi.CE
+at 0x7f5c08ec3d00>, 'is_debug': False, 'minimization_result_': 
+ckbox.c_wrapper_phi.CEnd2EndWrapperPhi o!
+5j~Ov
+RegOpenKeyExW
+4e:8a:
+e7:fd:
+RegCloseKey
+ialize
+0:1d:f
+6:7e:a1:bf:75:27:65:0a:a3:8e:2a:cd:42:c8:0c:61:fd:68:e2:c6:89:42:54:65:8d:16:b0:0e:8c:d0:9c:6b:0a:c9:f8:f9:2e:51:c3:45:3a:77
+CGeneticAlgorithm{'classifier': CClassifierEnd2EndMalware{'classes': array([0, 1]), 'n_features': 1048576, 'preprocess': None, 'n_jobs': 1, 'model': MalConv(
+  (embedding_1): Embedding(257, 8)
+  (conv1d_1): Conv1d(8, 128, kernel_size=(500,), stride=(500,))
+  (conv1d_2): Conv1d(8, 128, kernel_size=(500,), stride=(500,))
+  (dense_1): Linear(in_features=128, out_features=128, bias=True)
+  (dense_2): Linear(in_features=128, out_features=1, bias=True)
+), 'trained': False, 'input_shape': (1, 1048576), 'softmax_outputs': False, 'batch_size': 256, 'loss': 'binary_crossentropy', 'optimizer': None, 'optimizer_scheduler': None, 'epochs': 100, 'plus_version': False, 'train_transform': Lambda()}, 'x_opt': None, 'f_opt': None, 'x_seq': None 
+CGeneticAlgorithm{'classifier': CClassifierEnd2EndMalware{'classes': array([0, 1]), 'n_features': 1048576, 'preprocess': None, 'n_jobs': 1, 'model': MalConv(
+  (embedding_1): Embedding(257, 8)
+  (conv1d_1): Conv1d(8, 128, kernel_size=(500,), stride=(500,))
+  (conv1d_2): Conv1d(8, 128, kernel_size=(500,), stride=(500,))
+  (dense_1): Linear(in_features=128, out_features=128, bias=True)
+  (dense_2): Linear(in_features=128, out_features=1, bias=True)
+), 'trained': False, 'input_shape': (1, 1048576), 'softmax_outputs': False, 'batch_size': 256, 'loss': 'binary_crossentropy', 'optimizer': None, 'optimizer_scheduler': None, 'epochs': 100, 'plus_version': False, 'train_transform': Lambda()}, 
+j3wrW
+v2.0.50727
+#Strings
+#GUID
+#Blob
+@z;BU~
+j3wrW
+random_
+torch.sparse.ComplexHalfTensor
+torch.sparse.ComplexFloatTensor
+.10.7.1@
+d5:14:60:61:a7:3b:6e:4e:
+2:29:ce:69:5
+!'A\8
+A'0%A
+FA^kOA
+@w28J^
+@-XQAh
+@e>*A
+@qa!A
+AXo1A-6
+AN8_A
+AwJ;A
+A|#DA
+CClassifierEnd2EndMalware{'classes': array([0, 1]), 'n_features': 1048576, 'preprocess': None, 'n_jobs': 1, 'model': MalConv(
+  (embedding_1): Embedding(257, 8)
+  (conv1d_1): Conv1d(8, 128, kernel_size=(500,), stride=(500,))
+  (conv1d_2): Conv1d(8, 128, kernel_size=(500,), stride=(500,))
+  (dense_1): Linear(in_features=128, out_features=128, bias=True)
+  (dense_2): Linear(in_features=128, out_features=1, bias=True)
+), 'trained': False, 'input_shape': (1, 1048576), 'softmax_outputs': False, 
+S}g01-
+e-01, 8.21050688e-01, 8.44441553e-01,
+       9.81797306e-02, 5.92175287e-01, 2.19119843e-01, 5.17859530e-01,
+       6.59535534e-01, 6.47671
+@8l[|
+@i?j!
+@i?2H
+@i?Rs
+@FdX-
+@2=aI
+67689749654308, 2.96768974965430
+m{'classifier': CClassifierEnd2EndMalware{'classes': array([0, 1]), 'n_features': 1048576, 'preprocess': None, 'n_jobs': 1, 'model': MalConv(
+  (embedding_1): Embedding(257, 8)
+  (conv1d_1): Conv1d(8, 128, kernel_size=(500,), stride=(500,))
+  (conv1d_2): Conv1d(8, 128, kernel_size=(500,), stride=(500,))
+  (dense_1): Linear(in_features=128, out_features=128, bias=True)
+  (dense_2): Linear(in_features=128, out_features=1, bias=True)
+), 'trained': False, 'input_shape': (1, 1048576), 'softmax_outputs': False, 'batch_size': 256, 'loss': 'binary_crossentropy', 'optimizer': None, 'optimizer_scheduler': None, 'epochs': 100, 'plus_version': False, 'train_transform': Lambda()}, 'x_opt': None, 'f_opt': No
+       3.71249701e-01, 7.25301176e-01, 1.19371956e-01, 5.48084510e-01,
+       4.49634621e-01, 6.75680073e-01, 2.94804454e-01, 8.16588743e-01,
+       5.23481905e-01, 4.72572700e-01, 8.75742885e-01, 5.61307442e-02,
+       4.66929604e-01, 3.15976375e-01, 1.21672026e-01, 1.60936110e-01,
+       1.39197127e-01, 5.70820119e-01, 9.71618398e-01, 5.36691919e-01,
+       7.29843632e-01, 4.86742488e-01, 8.75602750e-01, 3.55803204e-01,
+       7.11590156e-02, 1.42806916e-01, 3.17823583e-01, 6.54375547e-04,
+       8.28772062e-01, 8.64139696e-01, 1.07796333e-01, 1.75125426e-01,
+       3.78434079e-01, 9.43633197e-01, 1.84734954e-01, 4.41245454e-01,
+       6.16414409e-01, 5.98269266e-01, 2.50781500e-01, 2.08655567e-01,
+       6.74832493e-01, 4.04035766e-02, 9.06623481e-02, 3.64834962e-01,
+       6.89197416e-01, 5.11702231e-01, 8.02659899e-01, 2.55623163e-01,
+67689749654308, 2.96768974965430
+498033e-01, 1.82995335e-01, 5.42357888e-02, 8.57929532e-01,
+tCodeThread
+GetFileSize
+GetModuleFileNameA
+GetModuleHandleA
+CloseHandle
+GetProcAddress
+GetSystemDirectoryA
+GetTempPathA
+GetTickCount
+GetVersion
+GetVersionExA
+GetWindowsDirectoryA
+GlobalMemoryStatus
+CopyFileA
+Interlocked
+@z;BU~
+@z;BB
+@hDi0B&
+@$Ed8
+.text
+`.rsrc
+@.reloc
+j3wrW
+v2.0.50727
+#Strings
+#GUID
+#Blob
+<Module>
+System.Runtime.CompilerServices
+CompilationRelaxationsAttribute
+.ctor
+RuntimeCompatibilityAttribute
+System
+Object
+Microsoft.VisualBasic.CompilerServices
+StandardModuleAttribute
+System.IO
+FileInfo
+FileStream
+Microsoft.VisualBasic.Devices
+Computer
+System.Net.Sockets
+TcpClient
+MemoryStream
+Conversions
+ToBoolean
+System.Reflection
+Assembly
+GetEntryAssembly
+get_Location
+Exception
+Microsoft.VisualBasic.MyServices
+RegistryProxy
+ServerComputer
+get_Registry
+Microsoft.Win32
+RegistryKey
+get_CurrentUser
+String
+Concat
+OpenSubKey
+DeleteValue
+ProjectData
+SetProjectError
+ClearProjectError
+RuntimeHelpers
+GetObjectValue
+GetValue
+RegistryValueKind
+CreateSubKey
+SetValue
+DateTime
+Operators
+ConditionalCompareObjectEqual
+ToString
+Environment
+get_MachineName
+get_UserName
+FileSystemInfo
+get_LastWriteTime
+get_Date
+ComputerInfo
+get_Info
+get_OSFullName
+Replace
+OperatingSystem
+get_OSVersion
+get_ServicePack
+Microsoft.VisualBasic
+Strings
+CompareMethod
+Split
+SpecialFolder
+GetFolderPath
+Contains
+RegistryKeyPermissionCheck
+GetValueNames
+get_Length
+Convert
+ToBase64String
+FromBase64String
+System.Text
+Encoding
+get_UTF8
+GetBytes
+GetString
+System.IO.Compression
+GZipStream
+Stream
+CompressionMode
+set_Position
+BitConverter
+ToInt32
+Dispose
+Space
+IntPtr
+op_Equality
+op_Explicit
+Interaction
+Environ
+Conversion
+Module
+GetModules
+GetTypes
+get_FullName
+EndsWith
+get_Assembly
+CreateInstance
+DirectoryInfo
+get_Name
+ToLower
+CompareString
+get_Directory
+get_Parent
+get_LocalMachine
+AppWinStyle
+Shell
+Delete
+DeleteSubKey
+EndApp
+System.Threading
+Thread
+Sleep
+Exists
+FileMode
+ReadAllBytes
+Write
+Flush
+Close
+System.Diagnostics
+Process
+Start
+EnvironmentVariableTarget
+SetEnvironmentVariable
+System.Net
+WebClient
+System.Drawing
+Graphics
+Bitmap
+Rectangle
+ConcatenateObject
+get_Chars
+ToArray
+DownloadData
+GetTempFileName
+WriteAllBytes
+get_Message
+NewLateBinding
+LateSet
+LateCall
+Boolean
+LateGet
+CompareObjectEqual
+OrObject
+System.Windows.Forms
+Screen
+get_PrimaryScreen
+get_Bounds
+get_Width
+get_Height
+System.Drawing.Imaging
+PixelFormat
+Image
+FromImage
+CopyPixelOperation
+CopyFromScreen
+Cursor
+Cursors
+get_Default
+Point
+get_Position
+ToInteger
+DrawImage
+ImageFormat
+get_Jpeg
+WriteByte
+RuntimeTypeHandle
+GetTypeFromHandle
+ChangeType
+System.Security.Cryptography
+MD5CryptoServiceProvider
+HashAlgorithm
+ComputeHash
+GetCurrentProcess
+get_Handle
+Monitor
+Enter
+Int32
+Socket
+get_Client
+SocketFlags
+set_ReceiveBufferSize
+set_SendBufferSize
+set_SendTimeout
+set_ReceiveTimeout
+Connect
+get_Available
+SelectMode
+NetworkStream
+GetStream
+ReadByte
+ToLong
+Receive
+ParameterizedThreadStart
+Command
+Mutex
+ThreadStart
+SessionEndingEventArgs
+SessionEndingEventHandler
+SystemEvents
+add_SessionEnding
+Application
+DoEvents
+set_MinWorkingSet
+ConditionalCompareObjectNotEqual
+CompilerGeneratedAttribute
+DebuggerStepThroughAttribute
+STAThreadAttribute
+StringBuilder
+GetProcessById
+get_MainWindowTitle
+DateAndTime
+get_Now
+get_ProcessName
+Keyboard
+get_Keyboard
+get_ShiftKeyDown
+get_CapsLock
+ToUpper
+get_CtrlKeyDown
+Remove
+j.exe
+avicap32.dll
+kernel32
+user32.dll
+user32
+ntdll
+mscorlib
+lastcap
+.cctor
+NtSetInformationProcess
+hProcess
+processInformationClass
+processInformation
+processInformationLength
+capGetDriverDescriptionA
+wDriver
+lpszName
+cbName
+lpszVer
+cbVer
+GetVolumeInformation
+GetVolumeInformationA
+lpRootPathName
+lpVolumeNameBuffer
+nVolumeNameSize
+lpVolumeSerialNumber
+lpMaximumComponentLength
+lpFileSystemFlags
+lpFileSystemNameBuffer
+nFileSystemNameSize
+GetForegroundWindow
+GetWindowText
+GetWindowTextA
+WinTitle
+MaxLength
+GetWindowTextLength
+GetWindowTextLengthA
+Plugin
+CompDir
+Sendb
+connect
+_Lambda$__1
+_Lambda$__2
+LastAV
+LastAS
+lastKey
+ToUnicodeEx
+GetKeyboardState
+MapVirtualKey
+GetWindowThreadProcessId
+GetKeyboardLayout
+GetAsyncKeyState
+VKCodeToUnicode
+WrapNonExceptionThrows
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+PPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDING
+       0.3470516
+.051684
+3, 0.1718221Q
+       0.62869374, 0.03627416, 0.0428241 , 0.24811217, 0.32242856,
+       0.2881357 , 0.39088876, 0.65296107, 0.40830331, 0.8071783 ,
+       0.00211472, 0.41352291, 0.35764584, 0.28060597, 0.53036918,
+       0
+
+### UTF-16LE ###
+Ajjjjjjh
+\device\physicalmemory
+value
+{9BA05972-F6A8-11CF-A442-00A0C90A8F39}
+GHPY
+xadefg
+VGFza01NQQ==
+0.7d
+NVDisplay.Container.exe
+UserProfile
+db0e5b24d38dbc2eff0e1a06df9e59b7
+musicnote.soundcast.me
+|'|'|
+False
+Software\Microsoft\Windows\CurrentVersion\Run
+Software\
+yy-MM-dd
+??-??-??
+Microsoft
+Windows
+ Win
+ x64
+ x86
+SystemDrive
+netsh firewall delete allowedprogram "
+.exe
+Software
+cmd.exe /c ping 0 -n 2 & del "
+SEE_MASK_NOZONECHECKS
+netsh firewall add allowedprogram "
+" ENABLE
+" ..
+prof
+getvalue
+Execute ERROR
+Download ERROR
+Executed As 
+Execute ERROR 
+start
+Update ERROR
+Updating To 
+Update ERROR 
+clear
+[kl]
+yy/MM/dd 
+[ENTER]
+[TAP]
+ntStringsA
+FileTimeToLocalFileTime
+FileTimeToSystemTime
+FindClose
+FindFirstFileA
+FindNextFileA
+FreeLibrary
+GetCommandLineA
+GHPY
+xadefg
+VGFza01NQQ==
+0.7d
+NVDisplay.Container.exe
+UserProfile
+db0e5b24d38dbc2eff0e1a06df9e59b7
+musicnote.soundcast.me
+|'|'|
+False
+Software\Microsoft\Windows\CurrentVersion\Run
+Software\
+yy-MM-dd
+??-??-??
+Microsoft
+Windows
+ Win
+ x64
+ x86
+SystemDrive
+netsh firewall delete allowedprogram "
+.exe
+Software
+cmd.exe /c ping 0 -n 2 & del "
+SEE_MASK_NOZONECHECKS
+netsh firewall add allowedprogram "
+" ENABLE
+" ..
+prof
+getvalue
+Execute ERROR
+Download ERROR
+Executed As 
+Execute ERROR 
+start
+Update ERROR
+Updating To 
+Update ERROR 
+clear
+[kl]
+yy/MM/dd 
+[ENTER]
+[TAP]

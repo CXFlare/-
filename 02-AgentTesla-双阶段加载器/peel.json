@@ -1,0 +1,29 @@
+{
+  "attributes_stripped": [
+    "SmartAssembly.Attributes",
+    "PoweredByAttribute"
+  ],
+  "bytes_in": 67072,
+  "bytes_out": 67072,
+  "detected": "SmartAssembly",
+  "input": "C:/malware_work/AgentTesla/hidden_payload_full.exe",
+  "notes": [
+    "SmartAssembly decrypts strings via per-string XOR against a 32-bit magic key split into 4 lanes; mode-1 embedded assemblies use a {z} header with chunked raw DEFLATE. The key is a static-cctor ldc.i4 constant recovered by partial CIL evaluation.",
+    "SmartAssembly resource Unknown: \"{07eefa3e-4bba-4508-ab41-20404168e31b}\" uses mode 0x02; static resource-compression recovery handles mode 0x01 only"
+  ],
+  "protector": "smart-assembly",
+  "recovered_constants": [],
+  "recovered_decoders": 0,
+  "recovered_methods": [],
+  "recovered_methods_written": 0,
+  "recovered_strings": [],
+  "recovered_strings_written": 0,
+  "renamable_identifiers": 158,
+  "schema": "disrobe.dotnet.peel/v0",
+  "strategy": "report-only-encrypted-resource",
+  "strings_obfuscated_count": 158,
+  "strings_total": 848,
+  "unobfuscatable_identifiers": 690,
+  "us_strings_total": 22,
+  "walled": true
+}
