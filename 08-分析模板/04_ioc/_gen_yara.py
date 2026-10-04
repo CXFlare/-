@@ -1,0 +1,241 @@
+# -*- coding: utf-8 -*-
+"""生成 YARA 规则 - 基于 NJRAT 和已分析的样本特征"""
+import os
+
+yara_rules = """/*
+   YARA 规则集 - Cybersight Malware-Samples 分析产物
+   Generated: 2026-10-04
+   Author: 逆向分析工具
+*/
+
+rule NJRAT_KingKarton_10 {
+    meta:
+        description = "检测 NJRAT KingKarton_10 Builder 生成的样本"
+        author = "RE 工具"
+        date = "2026-10-04"
+        severity = "high"
+        mitre_id = "T1056.001, T1112, T1547.001"
+        sample_md5 = "b54802ccdd1ae31f129f6caabdb92f45"
+    strings:
+        $s1 = "KingKarton_10" ascii wide
+        $s2 = "KingKarton" ascii wide
+        $s3 = "{79FEACFF-FFCE-815E-A900-316290B5B738}" ascii
+        $s4 = "ofs_kk" ascii
+        $s5 = "vvpupkin" ascii
+        $s6 = "X-okRecv11" ascii
+        $s7 = "blind_user" ascii
+        $s8 = "ShellServiceObjectDelayLoad" ascii
+    condition:
+        uint16(0) == 0x5A4D and
+        (
+            (2 of ($s1, $s2, $s3, $s4, $s5, $s6, $s7)) or
+            ($s8 and 1 of ($s1, $s2))
+        )
+}
+
+rule NJRAT_C2_Cluster {
+    meta:
+        description = "检测 NJRAT 使用的 crutop.nu 系 C2 集群"
+        severity = "high"
+    strings:
+        $c1 = "http://crutop.nu/index.php" ascii
+        $c2 = "http://crutop.ru/index.php" ascii
+        $c3 = "http://mazafaka.ru/index.php" ascii
+        $c4 = "http://asechka.ru/index.php" ascii
+        $c5 = "http://goldensand.ru/index.php" ascii
+    condition:
+        uint16(0) == 0x5A4D and any of them
+}
+
+rule DarkComet_DCMUTEX {
+    meta:
+        description = "检测 DarkComet RAT（DCMUTEX 互斥体）"
+        severity = "high"
+        mitre_id = "T1056.001"
+        sample_md5 = "0faee8383e8088667c4e94ab44d8cf66"
+    strings:
+        $s1 = "DCMUTEX" ascii wide
+        $s2 = "TIVEREMOTESHELL" ascii
+        $s3 = "TLOGSHISTORY" ascii
+        $s4 = "DCSC_CHATNUDGE" ascii
+        $s5 = "SOFTWARE\\Microsoft\\Shared Tools\\MSConfig\\startupreg" ascii
+    condition:
+        uint16(0) == 0x5A4D and 2 of them
+}
+
+rule Pony_C2_gate {
+    meta:
+        description = "检测 Pony 银行木马（don.service-master.eu）"
+        severity = "high"
+        sample_md5 = "106fabcf10a5c5486f09e47e794bfef6"
+    strings:
+        $u1 = "don.service-master.eu/gate.php" ascii
+        $u2 = "don.service-master.eu/shit.exe" ascii
+        $f1 = "FTP" ascii
+        $f2 = "SMTP" ascii
+        $f3 = "IMAP" ascii
+        $f4 = "POP3" ascii
+    condition:
+        ($u1 or $u2) or (3 of ($f1, $f2, $f3, $f4))
+}
+
+rule MonsterV2_Ransomware {
+    meta:
+        description = "检测 MonsterV2 勒索软件"
+        severity = "high"
+        mitre_id = "T1486"
+        sample_md5 = "e9fdc21bd273444925a4512166188e5b"
+    strings:
+        $s1 = "You are victim of Monster Ransomware" ascii
+        $s2 = "monste3rxfp2f7g3i.onion" ascii
+        $s3 = "Decrypting sector" ascii
+    condition:
+        uint16(0) == 0x5A4D and 2 of them
+}
+
+rule Akira_Ransomware {
+    meta:
+        description = "检测 Akira 勒索软件"
+        severity = "high"
+        mitre_id = "T1486"
+        sample_md5 = "5897676163e72e072de58c50ea84e4e2"
+    strings:
+        $s1 = "akira_readme.txt" ascii
+        $s2 = "akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion" ascii
+        $s3 = "akiralkzxzq2dsrzsrvbr2xgbbu2wgsmxryd4csgfameg52n7efvr2id.onion" ascii
+        $c1 = "expand 32-byte k" ascii
+    condition:
+        uint16(0) == 0x5A4D and (2 of them)
+}
+
+rule BlackMoon_XiaoBa_CoinHive {
+    meta:
+        description = "检测 BlackMoon XiaoBa 挖矿木马"
+        severity = "high"
+        mitre_id = "T1496"
+        sample_md5 = "eebffcc6416914b2b3c31f935bd802ca"
+    strings:
+        $s1 = "coinhive.min.js" ascii
+        $s2 = "CoinHive.Anonymous" ascii
+        $s3 = "yuNWeGn9GWL72dONBX9WNEj1aVHxg49E" ascii
+        $s4 = "XiaoBa" ascii
+    condition:
+        uint16(0) == 0x5A4D and 2 of them
+}
+
+rule Mirai_ELF {
+    meta:
+        description = "检测 Mirai IoT 僵尸网络 ELF 样本"
+        severity = "high"
+        mitre_id = "T1498, T1496"
+        sample_md5 = "1075519b2d23eb91d403fc61768c82bf"
+    strings:
+        $s1 = "POST /ctrlt/DeviceUpgrade_1 HTTP/1.1" ascii
+        $s2 = "/bin/busybox" ascii
+        $s3 = "MIRAI" ascii
+        $s4 = "watchdog" ascii
+    condition:
+        uint32(0) == 0x464C457F and 2 of them
+}
+
+rule BadRabbit_VMDetect {
+    meta:
+        description = "检测 BadRabbit 勒索软件"
+        severity = "high"
+        mitre_id = "T1497.001, T1486"
+        sample_md5 = "fbbdc39af1139aebba4da004475e8839"
+    strings:
+        $s1 = "diskpart" ascii
+        $s2 = "vssadmin" ascii
+        $s3 = "wevtutil" ascii
+        $s4 = "schtasks" ascii
+        $s5 = "RunOnce" ascii
+    condition:
+        uint16(0) == 0x5A4D and 3 of them
+}
+
+rule FakeAV_Delphi_UPX {
+    meta:
+        description = "检测 FakeAV 假冒杀毒软件"
+        severity = "medium"
+        sample_md5 = "90307e8421fc5314379ba87f56a11034"
+    strings:
+        $u1 = "universal101.com/upd.sc" ascii
+        $u2 = "universal101.com/upd02.app" ascii
+        $u3 = "gomyron.com" ascii
+    condition:
+        uint16(0) == 0x5A4D and any of them
+}
+
+rule CobaltStrike_S3_C2 {
+    meta:
+        description = "检测 CobaltStrike Beacon（AWS S3 C2）"
+        severity = "high"
+        mitre_id = "T1071"
+        sample_md5 = "f3b8c1bb3f2b7d4dafcdf8bf6ed2af55"
+    strings:
+        $s1 = "cumulodirifiuti/pieghevole.zip" ascii
+        $s2 = "s3.us-east-2.amazonaws.com" ascii
+    condition:
+        uint16(0) == 0x5A4D and any of them
+}
+
+rule NotPetya_Ransomware {
+    meta:
+        description = "检测 NotPetya 勒索软件"
+        severity = "critical"
+        mitre_id = "T1486, T1561.002"
+        sample_md5 = "b6cc1e4052f613e15a8b05439f5877b4"
+    strings:
+        $btc = "1Mz7153HMuxXTuR2R1t78mGSdzaAtNbBWX" ascii
+        $em = "wowsmith123456@posteo.net" ascii
+        $s1 = "MBR" ascii wide
+    condition:
+        uint16(0) == 0x5A4D and 1 of them
+}
+
+rule NJRAT_XOR_Stub {
+    meta:
+        description = "检测 NJRAT 运行时 XOR 自解密 stub"
+        severity = "high"
+        mitre_id = "T1027"
+    strings:
+        $s1 = "AU3!EA06M" ascii
+        $s2 = "AU3!EA06P" ascii
+    condition:
+        any of them
+}
+
+rule AutoIt_EA06_Payload {
+    meta:
+        description = "检测 AutoIt EA06 编译脚本"
+        severity = "medium"
+    strings:
+        $s1 = "AU3!EA06M" ascii
+        $s2 = "AU3!EA06P" ascii
+        $s3 = "This is a third-party compiled AutoIt script" ascii
+    condition:
+        any of them
+}
+
+rule WSHRAT_JS_PowerShell {
+    meta:
+        description = "检测 WSHRAT JS 混淆下载器"
+        severity = "high"
+        mitre_id = "T1059.007, T1059.001"
+        sample_md5 = "45ece63fd62550c00c23129d45acc6ae"
+    strings:
+        $s1 = "powershell" ascii
+        $s2 = "ActiveXObject" ascii
+        $s3 = "WScript.Shell" ascii
+        $s4 = "fromCharCode" ascii
+    condition:
+        filesize < 2MB and 3 of them
+}
+"""
+
+out = r"C:\Users\洛天依\Desktop\新建文件夹\逆向\恶俗样本\分析\iocs\malware-samples.yara"
+with open(out, "w", encoding="utf-8") as f:
+    f.write(yara_rules)
+print(f"已写入: {out}")
+print(f"规则数: {yara_rules.count('rule ')} 个")
